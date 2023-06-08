@@ -9,8 +9,8 @@ Me gusta la idea de construir software que ayude a mejorar la vida de las person
 </p>
 
 <div >
-<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArjona&show_icons=true&theme=gotham">
-<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArjona&layout=compact&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioRosales10&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioRosales10&layout=compact&show_icons=true&theme=gotham">
 
 </div>
 
