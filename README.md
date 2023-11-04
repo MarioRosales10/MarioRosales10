@@ -12,8 +12,9 @@ Me apasiona construir software que mejora la vida de las personas.
 
 <div align="center">
   <img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioRosales10&show_icons=true&theme=gotham">
-  <img alt="Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioRosales10&layout=compact&show_icons=true&theme=gotham">
+  <img alt="Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioRosales10&layout=compact&show_icons=true&theme=gotham&langs_count=6">
 </div>
+
 
 ### 🚀 Tecnologías
 
