@@ -4,8 +4,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/MarioRosales10/count.svg)
 
-Me apasiona construir software que mejora la vida de las personas.
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Desarrollador+Front-End+💻;🎮+Casual+Gamer" alt="Typing Animation">
 </p>
@@ -31,7 +29,6 @@ Me apasiona construir software que mejora la vida de las personas.
 ### 🔧 Frameworks y Herramientas
 
 <div style="display: inline_block">
-  <!-- Agrega aquí tus frameworks y herramientas -->
 </div>
 
 
@@ -42,6 +39,3 @@ Me apasiona construir software que mejora la vida de las personas.
 <img align="center" alt="Arj-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
 </div>
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
